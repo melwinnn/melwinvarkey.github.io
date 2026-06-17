@@ -153,9 +153,9 @@ Developed a system that allows electric vehicle users to reserve charging slots 
 
 📧 Email: melwinvarkey@gmail.com
 
-💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+💼 LinkedIn: https://www.linkedin.com/in/melwin-varkey
 
-💻 GitHub: https://github.com/YOUR_USERNAME
+💻 GitHub: https://github.com/melwinnn
 
 📍 Bengaluru, India
 
